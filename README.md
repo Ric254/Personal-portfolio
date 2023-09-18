@@ -2,15 +2,7 @@ ric254.github.io
 ================
 Freely licensed personal website for Erick Gathege
 
-## How to clone this website:
-1. Fork it and change the repository name to USERNAME.github.io (mine was ric254, but that won't work for you!)
-2. Delete CNAME (you can add a new one later)
-3. Delete my publications in _data/publications.yml and add your own, using the existing ones as a template.
-4. Update index.md and contact.md
-5. Remove my blog posts from _posts and optionally add your own. If you want a blog, uncomment the "blog" lines in _data/navlinks.yml
-6. Change the name of the site in _config.yml and in _includes/header.html
-7. Change the social media stuff in _includes/footer.html
-8. Add new photos and whatnot in static/img and new pdfs in static/pdf
-9. Change the name on the atom feed in blog.xml and in _includes/header.html
-10. Make an account on Disqus and replace _includes/disqus.html with the relevant information there.
-11. Set up google analytics and update it in _includes/footer.html, or remove it completely - it is not very useful!
+## About Me:
++I am a Software Engineer studying with ALX Africa group.
++As an ALX student, I have gained valuable skills and experience in full-stack software engineering. By creating this personal portfolio, I am able to showcase my best work and set myself apart from the competition. It is an opportunity to market myself and tell a compelling story about my journey to becoming a full-stack software engineer.
+
