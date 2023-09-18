@@ -1,4 +1,4 @@
-ric254.github.io
+My Personal Portfolio
 ================
 Freely licensed personal website for Erick Gathege
 
